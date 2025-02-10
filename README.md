@@ -1,2 +1,8 @@
 # Car-Racing-Game
 This Car Racing Game built with Pygame lets players control a car and avoid obstacles. The game includes level progression, score tracking, and collision detection. As the player advances, the difficulty increases with faster obstacles. It also features sound effects, providing an engaging and interactive gaming experience.
+
+This Car Racing Game is developed using Python and the Pygame library. The game simulates a racing environment where the player controls a car using the left and right arrow keys. The objective is to avoid obstacles (other cars) that come towards the player’s car. The game includes a score system that tracks how many obstacles the player has passed and calculates a score based on the number of successful passes. Every 10 passes increase the game’s difficulty level, speeding up the obstacles.
+
+The game includes a background, lane markings, and car sprites for a realistic racing environment. Players need to steer their car to avoid obstacles that move vertically down the screen. If the player's car collides with an obstacle, the game triggers a crash animation and sound and shows a message that the player has crashed. The level system adds increasing challenge as the speed of obstacles rises with each new level.
+
+The game is responsive, with smooth animations and real-time updates, giving an interactive experience. It includes sound effects, like a crash sound, to enhance the user experience. The game runs in a loop until the player crashes, and the screen updates continuously, making it a fun and engaging way to test reflexes and coordination.
